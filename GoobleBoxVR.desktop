@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+NoDisplay=false
+Terminal=true
+Exec=/home/jordancruz/Tools/scripts/goobleboxvr/gooblebox.sh
+Icon=/home/jordancruz/Pictures/Icons/gooblebox.png
+Name=GoobleBoxVR
+Comment=
+Categories=
