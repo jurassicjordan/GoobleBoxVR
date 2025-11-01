@@ -1,6 +1,8 @@
+GoobleBoxVR
+
 Named after the Rick and Morty device that powered a mini universe inside a car battery.
 
-This project is a python based script for converting a Wii balance board into a "run in blace" monodirectional VR treadmill, by emulating either the W key, or joystick input for a gamepad controller. 
+This project is a python based script for converting a Wii balance board into a "run in place" monodirectional VR treadmill, by emulating either the W key, or joystick input for a gamepad controller. 
 
 It measures the 4 corners of the balance board's analog weight sensors, avarages the left and right sensors, and looks for foot step padderns, to translate into a joystick or W key input. It also detects (albeit delayed) jumps via some kind of coding wizardry that I still don't fully understand.
 
